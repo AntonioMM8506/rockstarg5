@@ -1,3 +1,5 @@
 #ignorar carpeta de Pycharm
 .idea
 
+#ignorar imagenes
+.jpg
